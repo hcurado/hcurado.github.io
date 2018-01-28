@@ -1761,6 +1761,20 @@ body {
 .cid-qHQNzjIGLV .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qI37kHtenP {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qI37kHtenP h1 {
+  color: #616161;
+}
+.cid-qI37kHtenP h2,
+.cid-qI37kHtenP h3,
+.cid-qI37kHtenP p {
+  color: #767676;
+}
+.cid-qI37kHtenP .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-qHQRvumym0 {
   padding-top: 30px;
   padding-bottom: 30px;
