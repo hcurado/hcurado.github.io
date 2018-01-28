@@ -497,7 +497,8 @@
               "font-style": "italic"
             },
             "H1": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#b1a374"
             }
           },
           "_name": "header9",
