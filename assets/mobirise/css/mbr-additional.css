@@ -4526,14 +4526,14 @@ body {
   transition: all .5s;
 }
 .cid-qId7uuMwGE .nav-tabs .nav-link:hover {
-  background-color: #feffd5;
+  background-color: #7d973b;
 }
 .cid-qId7uuMwGE .nav-tabs .nav-link.active {
   font-weight: 500;
-  color: #000000;
+  color: #ffffff;
   font-style: normal;
   border: none;
-  background: #feffd5;
+  background: #7d973b;
 }
 .cid-qId7uuMwGE .nav-tabs .nav-link.active:hover {
   border: none;
