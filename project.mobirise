@@ -707,7 +707,7 @@
             }
           },
           "_name": "header3",
-          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7d973b\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#000000\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/helena-curado-vivermelhordefinitivamente-570x516.png\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-5\">Helena Curado\n<div>Master Coach e mentora de RH \n</div><div><br></div></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-7\"><b>Coaching</b> para mim e o seu crescimento e desenvolvimento pessoal ou profissional.<br>Crescimento pessoal e treinamento profissional on-line para pessoas otimistas que desejam atingir seus objetivos, sonhos e novos objetivos na vida.\n<br>Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente.\n<br><br>Você está interessado em obter seus maiores desafios?\n<br><br><b>Palestrar</b>, para mim, é passar a informação atualizada, de forma interativa, com alegria e fazer do momento uma troca de informações e aprendidas. Algumas ferramentas são de cabelos públicos e, de disso, construímos e desenvolvemos uma permuta de experiências e experiências crescimento . &nbsp;<br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.com\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Entre em contato comigo e me diga o que deseja obter</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"100\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#7d973b\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#000000\" condition=\"gradientBg\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/helena-curado-vivermelhordefinitivamente-570x516.png\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-5\">Helena Curado\n<div>Master Coach e Palestrante\n</div><div><br></div></h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-7\"><b>Coaching</b> para mim e o seu crescimento e desenvolvimento pessoal ou profissional.<br>Crescimento pessoal e treinamento profissional on-line para pessoas otimistas que desejam atingir seus objetivos, sonhos e novos objetivos na vida.\n<br>Com ferramentas simples, ajudo você a conhecê-lo melhor, divirta-se e sinta-se capaz de obter tudo o que você propõe rapidamente.\n<br><br>Você está interessado em obter seus maiores desafios?\n<br><br><b>Palestrar</b>, para mim, é passar a informação atualizada, de forma interativa, com alegria e fazer do momento uma troca de informações e aprendidas. Algumas ferramentas são de cabelos públicos e, de disso, construímos e desenvolvemos uma permuta de experiências e experiências crescimento . &nbsp;<br></p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.com\"><span class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-btn\"></span>Entre em contato comigo e me diga o que deseja obter</a></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_cid": "qIoyRrozep",
           "_anchor": "header3-2x",
           "_protectedParams": [],
@@ -3450,11 +3450,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>É comum as pessoas confundirem o coaching com mentoria ou consultoria. Esse equívoco acontece por que esses processos têm como foco o aumento de resultados, sejam pessoais, profissionais ou organizacionais, com o propósito de elevar a performance de pessoas, times e empresas.   Então, qual é a diferença entre eles?\n<div>A Mentoria – também chamada de mentoring – é uma atividade exclusivamente exercida por um profissional experiente em sua área de atuação. Se você acabou de assumir o cargo de diretor de marketing em uma nova empresa, por exemplo, e está inseguro em relação a desafios específicos, pode contratar um mentor com ampla bagagem em marketing para te dar conselhos que iluminarão o seu caminho. Esse profissional, um tipo de “tutor”, irá compartilhar com você conhecimentos e experiências para estimular o seu desenvolvimento nessa sua nova jornada.\n</div><div>\n</div><div>A consultoria, por sua vez, é um serviço focado em diagnósticos e processos com a finalidade de suprir necessidades específicas do cliente por meio de recomendações de ações e apontamento de soluções. Vamos supor que sua empresa atrasa constantemente a entrega de um determinado produto, resultando em prejuízos financeiros. Nesse caso, o consultor, que é um especialista em uma determinada área, irá fazer um diagnóstico do processo de produção deste produto, avaliar as informações coletadas, desenvolver um projeto e, por fim, implantar as soluções.\n</div><div>\n</div><div>E o coaching?\n</div><div>\n</div><div>“Coaching é um processo que visa elevar a performance de um indivíduo (grupo ou empresa), aumentando os resultados positivos por meio de metodologias, ferramentas e técnicas cientificamente validadas, aplicadas por um profissional habilitado (o coach), em parceria com o cliente (o coachee)”, explicam os fundadores da Sociedade Brasileira de Coaching, Villela da Matta e Flora Victoria.\n</div><div>\n</div><div>O coach não dá conselhos, como o mentor; também não fornece soluções prontas ao cliente, como o consultor. Qual é o seu papel, então? Esse profissional estimula o alcance de entendimentos, alternativas e opções que levam o coachee a ampliar suas realizações e conquistas. Esse processo acontece por meio de desenvolvimento de competências necessárias para que o cliente atinja suas metas, contribuindo intensamente para que possa obter excelentes resultados pessoais, profissionais e para o seu negócio.\n</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIuNPEZK8r",
+          "_anchor": "content9-76",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-76"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5469,7 +5469,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Sobre mim\n</b><div><b>Eu trabalho com clientes que se sentem em uma rotina, com pessoas que fazem objetivos, mas não os realizam - tentam e tentam e nunca funcionam. Muitos deles se sentem queimados, sem energia e sem tempo para si. Abrumado por todos os compromissos da vida. O cliente sente como se estivesse girando suas rodas.\n</b></div><div><b>Algo dentro deles espera que possa ser diferente.\n</b></div><div><b>À medida que trabalhamos juntos, os clientes descobrem o que eles conseguiram. A sensação do cliente inspirada e conectada a si mesma, eles acham energia e energia. Eles obtêm resultados sustentáveis.\n</b></div><div><b>Faça ações, alcance seus objetivos e descubra como viver, agora, de uma maneira que funciona para você e sua vida inteira.\n</b></div><div><b>Estou cheio de areia e graça. Eu mantenho os pés do cliente no fogo com montões de compaixão. Eu gosto de me comunicar com clientes com frequência. Juntos estabelecemos metas e mapeamos como chegar lá. Os clientes obtêm etapas concretas de ação com responsabilidade estruturada.\n</b></div><div><b>Os clientes que trabalham comigo mudam suas vidas de dentro para fora.\n</b></div><div><b>Ligue ou envie um email para configurar sua consulta inicial gratuita.\n</b></div><div><b>Com uma antecipação entusiasmada,\n</b></div><div><b>Helena Curado</b></div><div><b><br></b></div><div><b>For over 10 years, I’ve been specializing in therapeutic and ayurvedic massages, oncology, and aromatherapy. I love working with “special populations” such as infants, adolescents, baby boomers, and athletes. I’m certified in various massage modalities, including pregnancy and oncology massages.\n</b></div><div><b>\n</b></div><div><b>I believe stress is the origin of all diseases. I’m more than just a massage therapist, I’m a detective whose goal is to help you achieve your highest potential in wellness, what I call “betterness.”  \n</b></div><div><b>\n</b></div><div><b>To set up an appointment with me, click here and send me a message. I will contact you to confirm the details of your appointment, and also answer any questions you might have.</b></div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Sobre mim\n</b><div><b>Eu trabalho com clientes que se sentem em uma rotina, com pessoas que fazem objetivos, mas não os realizam - tentam e tentam e nunca funcionam. Muitos deles se sentem queimados, sem energia e sem tempo para si. Abrumado por todos os compromissos da vida. O cliente sente como se estivesse girando suas rodas.\n</b></div><div><b>Algo dentro deles espera que possa ser diferente.\n</b></div><div><b>À medida que trabalhamos juntos, os clientes descobrem o que eles conseguiram. A sensação do cliente inspirada e conectada a si mesma, eles acham energia e energia. Eles obtêm resultados sustentáveis.\n</b></div><div><b>Faça ações, alcance seus objetivos e descubra como viver, agora, de uma maneira que funciona para você e sua vida inteira.\n</b></div><div><b>Estou cheio de areia e graça. Eu mantenho os pés do cliente no fogo com montões de compaixão. Eu gosto de me comunicar com clientes com frequência. Juntos estabelecemos metas e mapeamos como chegar lá. Os clientes obtêm etapas concretas de ação com responsabilidade estruturada.\n</b></div><div><b>Os clientes que trabalham comigo mudam suas vidas de dentro para fora.\n</b></div><div><b>Ligue ou envie um email para configurar sua consulta inicial gratuita.\n</b></div><div><b>Com uma antecipação entusiasmada,\n</b></div><div><b>Helena Curado</b></div><div><b><br></b></div><div><b>For over 10 years, I’ve been specializing in therapeutic and ayurvedic massages, oncology, and aromatherapy. I love working with “special populations” such as infants, adolescents, baby boomers, and athletes. I’m certified in various massage modalities, including pregnancy and oncology massages.\n</b></div><div><b>\n</b></div><div><b>I believe stress is the origin of all diseases. I’m more than just a massage therapist, I’m a detective whose goal is to help you achieve your highest potential in wellness, what I call “betterness.”  \n</b></div><div><b>\n</b></div><div><b>To set up an appointment with me, click here and send me a message. I will contact you to confirm the details of your appointment, and also answer any questions you might have.</b></div><div><b><br></b></div><div><b>Sobre a palestrante – Vanessa Tobias é empresária, Life e Executive Coach Internacional, certificada no processo Unleash the Power Within por Anthony Robbins (EUA). Criou o único método de Life Coaching em grupo do Brasil e a disciplina de Coaching, Comunicação e Liderança, da FGV ÚNICA; além de ser mestre em administração pela ESAG/ UDESC; Skills Coach em Oratória de Alto Impacto, Relações Humanas e Comunicação; e trabalha com o exclusivo método de Formação em Coaching Aplicado nas áreas de Coaching para Grávidas, Sucessão Familiar, Coaching Financeiro, de Carreira, Coaching para Solteiros e Casais e outras linhas.</b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIpFa7Ea7s",
           "_anchor": "content1-4l",
           "_protectedParams": [],
@@ -6623,11 +6623,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Você será capaz de conduzir suas palestras de forma</b><b style=\"font-size: 1rem;\">mais profissional;</b></li><li><b>Terá acesso a estratégias de grandes palestrantes que até hoje fazem muito sucesso, e poderá criar a sua no mesmo caminho;</b></li><li><b>Você não precisará mais arriscar para ver se dá certo, porque você terá uma profissional com mais de 16 anos de experiência do mercado de palestras te auxiliando.</b></li><li><b>Você saberá como investir em propaganda e divulgação para seus produtos, palestras e marketing pessoal</b></li><li><b>Seus livros e DVDs poderão ser vendidos e publicados por grandes empresas do mercado de Editoração e Produção</b></li><li><b>As técnicas e dicas são práticas, isso quer dizer que você terá um método para seguir e fazer sucesso.</b></li><li><b>Estará economizando muito dinheiro em comparação a outros curso de desenvolvimento específico, que no final acabam sendo informações muito abrangentes, e que não tiram suas dúvidas.</b></li><li><b>&nbsp;Após o Mentoring para palestrantes, você não terá mais dúvidas se está agindo da maneira correta, evitando assim despesas desnecessárias.</b></li><li><b>Você terá um planejamento estratégico e personalizado para a sua carreira como palestrante;</b></li><li><b>Você evitará os erros mais frequentes dos palestrantes inexperientes;</b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuGirW6mf",
+          "_anchor": "content11-70",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-70"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6678,11 +6678,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Trabalhar em Equipe, tarefa difícil e muito importante!\n<div>Melhorar o desempenho de todos e por consequência os resultados da empresa de forma positiva.\n</div><div>Empresas que tem sua força de Trabalho, focada no Trabalho em Equipe alcançam maiores e melhores resultados.\n</div><div>Nesta Palestra vamos comover as pessoas a pensarem mais em equipe e se somarem para obter mais facilmente os RESULTADOS.\n</div><div>De uma forma MOTIVACIONAL utilizando métodos de COACHING e VISÃO SISTÊMICA com foco na Filosofia de John C. Maxwell.\n</div><div>Importante unificar não só as Equipes dentro dos departamentos, mas transformar toda a empresa em uma Grande EQUIPE.&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIulWjt6vZ",
+          "_anchor": "content9-6e",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6e"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6729,11 +6729,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>A Motivação de uma Equipe\n</b></li><li><b>Ampliação da visão de Equipe \n</b></li><li><b>Conceito Moderno de Equipe\n</b></li><li><b>Relacionamento Interpessoal\n</b></li><li><b>A Mentalidade de uma Equipe EFICAZ\n</b></li><li><b>Manutenção de Trabalho em Equipe</b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuqnDBshD",
+          "_anchor": "content11-6m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-6m"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6763,11 +6763,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp;O método utilizado é REFLEXIVO, convida os envolvidos a pensar sobre as suas atitudes e focalizar para Atitudes de SUCESSO. A abordagem desta palestra é extremamente MOTIVACIONAL e REFLEXIVA, ilustra as grandes vantagens de se dedicar ao TRABALHO EM EQUIPE em todas as áreas de relacionamento de uma forma geral, levando em consideração a conscientização individual de suas ATITUDES EM EQUIPE voltadas para o SUCESSO pessoal, profissional e EMPREENDEDORA. \nO Foco é fazer com que as pessoas possam melhorar suas performances pessoais e as da Empresa onde trabalham, com as vantagens do TRABALHO EM EQUIPE, que é uma das mais desafiadoras formas de se obter resultados.  O Palestrante Eduh Rodrigues comove e une os participantes no final da Palestra para que ela se torne inesquecível! A ALAVANCA para mudar a ATITUDE é a MOTIVAÇÃO e a REFLEXÃO, rumo ao GRANDE RESULTADO!&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIumqlZm9N",
+          "_anchor": "content9-6f",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6f"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6778,11 +6778,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_cid": "qIuk0blkwp",
+          "_anchor": "content8-68",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-68"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6796,11 +6796,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">T R E I N A M E N T O S:\n<div>\"TRABALHO EM EQUIPE E RELACIONAMENTO INTERPESSOAL\"</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">(T R E I N A M E N T O)<br>TRABALHO EM EQUIPE E RELACIONAMENTO INTERPESSOAL!</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuzFqdvkl",
+          "_anchor": "content4-6s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-6s"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6851,11 +6851,11 @@
           "_name": "content12",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>&nbsp;Como ir AO SUCESSO em Equipe?\n</b></li><li><b>Alta performance e Lucratividade para as Organizações!</b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuAN86BKm",
+          "_anchor": "content12-6u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-6u"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6885,11 +6885,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Relacionar-se bem para trabalhar em Equipe é um desafio a todos os Profissionais!\n<div>Melhorar o desempenho de todos e por consequência os resultados da empresa de forma positiva.\n</div><div>Empresas que tem sua força de Trabalho, focada no Trabalho em Equipe alcançam maiores e melhores resultados. \n</div><div>Nesta Palestra vamos comover as pessoas a pensarem mais em equipe e se somarem para obter mais facilmente os RESULTADOS. \n</div><div>\n</div><div>\n</div><div>De uma forma MOTIVACIONAL utilizando métodos de COACHING e VISÃO SISTÊMICA com foco na Filosofia de John C. Maxwell.\n</div><div>Importante unificar não só as Equipes dentro dos departamentos, mas transformar toda a empresa em uma Grande EQUIPE.&nbsp;</div><br><div><br></div>&nbsp;ALGUNS TEMAS ABORDADOS: &nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIuzGP26pa",
+          "_anchor": "content9-6t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6t"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6936,11 +6936,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Relacionamento Interpessoal\n</b></li><li><b>Ampliação da visão de Equipe\n</b></li><li><b>Comportamentos em Equipe\n</b></li><li><b>Comprometimento Mental\n</b></li><li><b>A Mentalidade de uma Equipe EFICAZ\n</b></li><li><b>Manutenção de Trabalho em Equipe</b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuB7xf4Ja",
+          "_anchor": "content11-6v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-6v"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6970,11 +6970,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>O método utilizado é REFLEXIVO, convida os envolvidos a pensar sobre as suas atitudes e focalizar para Atitudes de SUCESSO. A abordagem desta palestra é extremamente MOTIVACIONAL e REFLEXIVA, ilustra as grandes vantagens de se dedicar ao TRABALHO EM EQUIPE em todas as áreas de relacionamento de uma forma geral, levando em consideração a conscientização individual de suas ATITUDES EM EQUIPE voltadas para o SUCESSO pessoal, profissional e EMPREENDEDORA. \n<div>O Foco é fazer com que as pessoas possam melhorar suas performances pessoais e as da Empresa onde trabalham, com as vantagens do TRABALHO EM EQUIPE, que é uma das mais desafiadoras formas de se obter resultados.\n</div><div>\n</div><div>&nbsp;O Palestrante Eduh Rodrigues comove e une os participantes no final da Palestra para que ela se torne inesquecível!\n</div><div>\n</div><div>&nbsp;A ALAVANCA para mudar a ATITUDE é a MOTIVAÇÃO e a REFLEXÃO, rumo ao GRANDE RESULTADO!&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIuBvqe4HJ",
+          "_anchor": "content9-6w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6w"
+          "_params": {}
         },
         {
           "_styles": {
@@ -6985,11 +6985,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_cid": "qIuBwHxg03",
+          "_anchor": "content8-6x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-6x"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7003,11 +7003,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">&nbsp;\n<div>PALESTRA:</div><div>\"ATITUDE, MOTIVAÇÃO E COMPROMETIMENTO\"&nbsp;</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">(Motivacional)<br>MOTIVAÇÃO NO TRABALHO PARA O SUCESSO</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIukhsdANL",
+          "_anchor": "content4-69",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-69"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7040,11 +7040,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>PALESTRA MOTIVACIONAL\n<div>FAZENDO REFLETIR SOBRE O COMPORTAMENTO E ATITUDE PROFISSIONAL E PESSOAL PARA RESULTADOS EM BUSCA DO SUCESSO.\n</div><div>\n</div><div>Uma Palestra Motivacional para levantar os ânimos das Pessoas, Profissionais e EMPRESAS que buscam melhorar seus resultados baseados no estímulo das suas ATITUDES direcionados ao comprometimento, trabalhando suas mentes para o foco em resultados como forte fator diferencial POSITIVO nas Empresas e nas vidas pessoais para alcançar SUCESSO.</div><br><div>&nbsp;ALGUNS TEMAS ABORDADOS:&nbsp;</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIukCGdhle",
+          "_anchor": "content9-6a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6a"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7091,11 +7091,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Conceito de Competência na Prática;\n</b></li><li><b>Visão para a ATITUDE e COMPROMETIMENTO;\n</b></li><li><b>Atraindo o SUCESSO na Organização através da ATITUDE\n</b></li><li><b>Foco na Mudança Positiva \n</b></li><li><b>Alinhando Objetivos Pessoais e Profissionais;\n</b></li><li><b>Motivacional: O Poder da Mente para o SUCESSO!;</b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuqME3V4Q",
+          "_anchor": "content11-6n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-6n"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7125,11 +7125,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>O Palestrante Eduh Rodrigues emociona os Participantes no final da palestra!\nO Palestrante Eduh Rodrigues é MEMBRO CERTIFICADO pelo JOHN MAXWELL TEAM para aplicar a Filosofia de John C. Maxwell atualmente um dos maiores Palestrantes no Mundo. A ALAVANCA para mudar a ATITUDE de VENDAS é a MOTIVAÇÃO e a REFLEXÃO, rumo ao GRANDE RESULTADO!&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIumCxz5xK",
+          "_anchor": "content9-6g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6g"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7140,11 +7140,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_cid": "qIulPgRL2Z",
+          "_anchor": "content8-6d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-6d"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7158,11 +7158,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">PALESTRA: <br>\"ADMINISTRANDO O TEMPO\"</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">COMO ADMINISTRAR MELHOR O TEMPO?\n<div>INDISPESÁVEL para todos os Profissionais!&nbsp;</div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIuo1Cqq23",
+          "_anchor": "content4-6i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-6i"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7213,11 +7213,11 @@
           "_name": "content12",
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>Quer aproveitar melhor seu tempo? \n</b></li><li><b>SEU TEMPO É O SEU SUCESSO! \n</b></li><li><b>Quer que sua equipe tenha seu tempo MELHOR ADMINISTRADO?&nbsp;</b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIur8mawGD",
+          "_anchor": "content12-6p",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content12-6p"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7249,11 +7249,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><div><span style=\"font-size: 1.5rem;\">A maioria dos profissionais nos dias atuais parece estar TOTALMENTE SEM TEMPO! &nbsp;</span></div><div>\n</div><div>Durante esta Palestra, vamos AMPLIAR mentalmente AS VISÕES dos participantes no sentido de promover MAIOR QUALIDADE E SEGURANÇA na ADMINISTRAÇÃO DO TEMPO próprio para aumento da PRODUTIVIDADE e REDUÇÃO DO ESTRESSE.\n</div><div>\n</div><div>As metodologias aplicadas são os conceitos do COACHING, focado na Visão SISTÊMICA que são as mais modernas técnicas para que os profissionais tenham aproveitamento da palestra e realmente consigam por em uso as técnicas ministradas no curso, QUE SÃO VERDADEIRAS PRÁTICAS  e não apenas CONCEITOS.\n</div><div>\n</div><div>Os profissionais que ADMINISTRAM MELHOR SEU TEMPO ganham mais tempo para Raciocinar e são quem determinam a diferença entre os MELHORES, pois  no mercado competitivo os que usam mais  o RACIOCÍNIO  certamente são os profissionais de maior SUCESSO. &nbsp;</div><br><div>A BOA ADMINISTRAÇÃO DO TEMPO melhora os RESULTADOS\n</div><div>\n</div><div><span style=\"font-size: 1.5rem;\">ITENS ABORDADOS&nbsp;</span></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIuoGABE1h",
+          "_anchor": "content9-6j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6j"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7300,11 +7300,11 @@
           "_name": "content11",
           "_customHTML": "<section class=\"mbr-section article content11\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#7d973b\" condition=\"stylizedCounters\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li><b>Como identificar os Principais “Ladrões do Tempo”;\n</b></li><li><b>Quais as Fontes de Desperdício de Tempo;\n</b></li><li><b>O que é a Gestão de Tempo;\n</b></li><li><b>Como Administrar o seu Tempo;\n</b></li><li><b>Utilização Eficaz do Tempo disponível;\n</b></li><li><b>Definição de Urgência;\n</b></li><li><b>Definição de Importância;\n</b></li><li><b>Definição de Prioridades. &nbsp;&nbsp;</b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qIupeFI9pk",
+          "_anchor": "content11-6l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content11-6l"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7334,11 +7334,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#465022\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>O Palestrante Eduh Rodrigues é MEMBRO CERTIFICADO pelo JOHN MAXWELL TEAM para aplicar a Filosofia de John C. Maxwell atualmente  um dos maiores Palestrantes no Mundo.</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "qIuv0OzgKA",
+          "_anchor": "content9-6q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-6q"
+          "_params": {}
         },
         {
           "_styles": {
@@ -7349,11 +7349,11 @@
           "_name": "content8",
           "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n",
           "_cid": "qIuvg5vaHd",
+          "_anchor": "content8-6r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content8-6r"
+          "_params": {}
         }
       ]
     },
