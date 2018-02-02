@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helena Curado Coach",
-    "currentPage": "page17.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 290,
     "versionPublish": "4.6.3",
@@ -667,24 +667,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Motivação para a Vida e o Trabalho\n<div>Gestão de Pessoas: Desenvolvendo Habilidades Liderança\n</div><div>Gerenciamento do Tempo | Planejamento Prévio\n</div><div>Relacionamento Interpessoal: o que fazer para melhorar\n</div><div>Relações Interpessoais nas Organizações\n</div><div>Marketing Pessoal: você para o mundo\n</div><div>Ética e Etiqueta Profissional\n</div><div>Sucesso Pessoal e Profissional\n</div><div>Autoconfiança: A Habilidade de um Vencedor\n</div><div>\n</div><div>Gerenciamento do Estresse\n</div><div>Qualidade de Vida no Trabalho\n</div><div>Saúde e Bem-Estar do Trabalhador\n</div><div>O Trabalho como fonte de realização para a vida\n</div><div>Construir uma convivência saudável para prevenir acidentes</div><div>Palestra Nutricao</div><div>Imagem Pessoal</div><div>Gerenciador do stress</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Saúde da Mulher\n<div>Mulher: A Construção da Autoestima\n</div><div>Mulher: Carreira e Maternidade\n</div><div>A Maternidade Como Fator Impulsionador da Carreira\n</div><div>\n</div><div>Saúde do Homem\n</div><div>\n</div><div>Alcoolismo \n</div><div>Tabagismo\n</div><div>Drogas\n</div><div>Doenças Sexualmente Transmissíveis e AIDS</div><div><br></div><div>Coaching de bem-estar\n</div><div>Comer as Emocional\n</div><div>Coaching de Emagrecimento\n</div><div>Private Coaching\n</div><div>Coaching em grupo\n</div><div>Personal Planning Assistance\n</div><div>Couples and Group Sessions\n</div><div>Workshops and Retreats\n</div><div>Webinars\n</div><div>Skype sessions\n</div><div>Group/individual Courses available</div><div>Markting Pessoal</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qIvatZG9Sh",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content3-7k"
         },
         {
           "_styles": {
