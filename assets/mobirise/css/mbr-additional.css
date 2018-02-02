@@ -8263,14 +8263,6 @@ body {
 .cid-qHQNzjIGLV .dropdown-item:hover {
   color: #9ab059 !important;
 }
-.cid-qIvdp7X3hO {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qIvdp7X3hO .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-qIvdb34zaX {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -8335,9 +8327,9 @@ body {
   }
 }
 .cid-qIvu9asS3p {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #feffd5;
 }
 .cid-qIvs8i692r {
   padding-top: 0px;
@@ -8377,9 +8369,9 @@ body {
   }
 }
 .cid-qIvubGTeXp {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #feffd5;
 }
 .cid-qIvzaRlfjS {
   padding-top: 0px;
@@ -8419,9 +8411,32 @@ body {
   }
 }
 .cid-qIvAPqIHm5 {
-  padding-top: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #feffd5;
+}
+.cid-qIvYQI2ckK {
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
+}
+.cid-qIvYQI2ckK .line {
+  background-color: #7d973b;
+  color: #7d973b;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qIvYQI2ckK .section-text {
+  padding: 2rem 0;
+}
+.cid-qIvYQI2ckK .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIvYQI2ckK .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qIve9NRsaz {
   padding-top: 45px;
@@ -8460,4 +8475,71 @@ body {
 }
 .cid-qIvcl9M7OU .section-text DIV {
   text-align: left;
+}
+.cid-qIw0qqDqFu {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qIw0qqDqFu .content {
+    text-align: center;
+  }
+  .cid-qIw0qqDqFu .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qIw0qqDqFu .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qIw0qqDqFu .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qIw0qqDqFu .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qIw0qqDqFu .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qIw0qqDqFu .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qIw0qqDqFu .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qIw0qqDqFu .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qIw0qqDqFu .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qIw0qqDqFu .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qIw0qqDqFu .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qIw0qqDqFu .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
 }
