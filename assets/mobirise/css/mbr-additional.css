@@ -2545,8 +2545,11 @@ body {
 .cid-qIC2lvI20f H3 {
   color: #465022;
 }
+.cid-qIC2lvI20f B {
+  color: #7d973b;
+}
 .cid-qIC5BCTwTX {
-  background: linear-gradient(45deg, #465022, #feffd5);
+  background: linear-gradient(45deg, #465022, #7d973b);
 }
 .cid-qIC5BCTwTX H1 {
   text-align: center;
