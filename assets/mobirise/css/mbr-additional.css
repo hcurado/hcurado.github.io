@@ -8372,7 +8372,112 @@ body {
   color: #9ab059 !important;
 }
 .cid-qICmgSUN9E {
-  background-image: url("../../../assets/images/jumbotron1.jpg");
+  background-image: url("../../../assets/images/mbr-2-1618x1080.jpg");
+}
+.cid-qIH2Wvas92 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qIH2Wvas92 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qIH3k1Mqzt {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qIH3k1Mqzt .line {
+  background-color: #7d973b;
+  color: #7d973b;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qIH3k1Mqzt .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qIH3k1Mqzt .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIH3k1Mqzt .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qIH3yFLhgD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qIH3yFLhgD .counter-container {
+  color: #767676;
+}
+.cid-qIH3yFLhgD .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qIH3yFLhgD .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qIH3yFLhgD .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #7d973b;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-qIH3Tt95ER {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qIH3Tt95ER .line {
+  background-color: #7d973b;
+  color: #7d973b;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qIH3Tt95ER .section-text {
+  padding: 2rem 0;
+}
+.cid-qIH3Tt95ER .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIH3Tt95ER .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qIH2lahmTO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #465022;
+}
+.cid-qIH2lahmTO .mbr-text,
+.cid-qIH2lahmTO blockquote {
+  color: #767676;
+}
+.cid-qIH2lahmTO BLOCKQUOTE {
+  color: #ffffff;
+}
+.cid-qIH4Fhq6B6 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-qHQNzjIGLV .navbar {
   padding: .5rem 0;
