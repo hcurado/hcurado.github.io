@@ -8372,7 +8372,7 @@ body {
   color: #9ab059 !important;
 }
 .cid-qICmgSUN9E {
-  background-image: url("../../../assets/images/jumbotron0.jpg");
+  background-image: url("../../../assets/images/jumbotron1.jpg");
 }
 .cid-qHQNzjIGLV .navbar {
   padding: .5rem 0;
@@ -9566,4 +9566,7 @@ body {
 }
 .cid-qIGP5zv0y3 H3 {
   color: #465022;
+}
+.cid-qIGXlXWPk5 {
+  background: linear-gradient(45deg, #465022, #465022);
 }
