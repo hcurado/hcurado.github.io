@@ -1807,10 +1807,9 @@ body {
   color: #ffffff;
 }
 .cid-qIoyRrozep {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #7d973b;
-  background: linear-gradient(45deg, #7d973b, #000000);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 @media (min-width: 992px) {
   .cid-qIoyRrozep .mbr-figure {
@@ -1828,13 +1827,13 @@ body {
   }
 }
 .cid-qIoBijNurG {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-qIoBijNurG .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #2e2e2e;
+  color: #2e2e2e;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1849,46 +1848,6 @@ body {
   .cid-qIoBijNurG .inner-container {
     width: 100% !important;
   }
-}
-.cid-qIp68Na3XA {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qIp79u4DZG {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qIpHQJLEUt {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qIq1ftDHY1 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qIpnc50LpK {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qIpDtp4ypW {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qIprv73BpU {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qIp6AG9UG8 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
 }
 .cid-qHQSfRCaCw {
   padding-top: 90px;
@@ -2494,7 +2453,7 @@ body {
   color: #9ab059 !important;
 }
 .cid-qIG3QnqxtE {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #465022;
 }
@@ -8377,7 +8336,7 @@ body {
   color: #9ab059 !important;
 }
 .cid-qICmgSUN9E {
-  background-image: url("../../../assets/images/jumbotron1.jpg");
+  background-image: url("../../../assets/images/jumbotron2.jpg");
 }
 .cid-qHQNzjIGLV .navbar {
   padding: .5rem 0;
