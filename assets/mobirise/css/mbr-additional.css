@@ -8378,20 +8378,37 @@ body {
 .cid-qICmgSUN9E {
   background-image: url("../../../assets/images/mbr-2-1618x1080.jpg");
 }
-.cid-qIHnwrv2ir {
-  padding-top: 45px;
+.cid-qICmgSUN9E .mbr-text,
+.cid-qICmgSUN9E .mbr-section-btn {
+  color: #feffd5;
+}
+.cid-qICmgSUN9E DIV {
+  color: #feffd5;
+}
+.cid-qIHrS7kEtR {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #465022;
 }
-.cid-qIHnwrv2ir .mbr-section-subtitle {
-  color: #767676;
+.cid-qIHrS7kEtR .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qIHnwrv2ir .mbr-section-subtitle DIV {
-  color: #ffffff;
-}
-.cid-qIHnwrv2ir H2 {
+.cid-qIHrS7kEtR .section-text {
+  padding: 2rem 0;
   text-align: left;
-  color: #ffffff;
+  color: #feffd5;
+}
+.cid-qIHrS7kEtR .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIHrS7kEtR .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qIH2Wvas92 {
   padding-top: 60px;
@@ -8401,20 +8418,30 @@ body {
 .cid-qIH2Wvas92 .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qIHp0OtSzt {
-  padding-top: 45px;
+.cid-qIHqLZoa21 {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #465022;
 }
-.cid-qIHp0OtSzt .mbr-section-subtitle {
-  color: #767676;
+.cid-qIHqLZoa21 .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qIHp0OtSzt .mbr-section-subtitle DIV {
-  color: #ffffff;
-}
-.cid-qIHp0OtSzt H2 {
+.cid-qIHqLZoa21 .section-text {
+  padding: 2rem 0;
   text-align: left;
-  color: #ffffff;
+  color: #feffd5;
+}
+.cid-qIHqLZoa21 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIHqLZoa21 .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qIH3k1Mqzt {
   padding-top: 30px;
@@ -8440,20 +8467,30 @@ body {
     width: 100% !important;
   }
 }
-.cid-qIHnsVviyd {
-  padding-top: 45px;
+.cid-qIHrivX88k {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #465022;
 }
-.cid-qIHnsVviyd .mbr-section-subtitle {
-  color: #767676;
+.cid-qIHrivX88k .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qIHnsVviyd .mbr-section-subtitle DIV {
-  color: #ffffff;
-}
-.cid-qIHnsVviyd H2 {
+.cid-qIHrivX88k .section-text {
+  padding: 2rem 0;
   text-align: left;
-  color: #ffffff;
+  color: #feffd5;
+}
+.cid-qIHrivX88k .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIHrivX88k .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qIH3yFLhgD {
   padding-top: 60px;
@@ -8488,20 +8525,30 @@ body {
   border-radius: 50%;
   content: '✓';
 }
-.cid-qIHjjI5sUE {
-  padding-top: 45px;
+.cid-qIHrrFyofv {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #465022;
 }
-.cid-qIHjjI5sUE .mbr-section-subtitle {
-  color: #767676;
+.cid-qIHrrFyofv .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qIHjjI5sUE .mbr-section-subtitle DIV {
-  color: #ffffff;
-}
-.cid-qIHjjI5sUE H2 {
+.cid-qIHrrFyofv .section-text {
+  padding: 2rem 0;
   text-align: left;
-  color: #ffffff;
+  color: #feffd5;
+}
+.cid-qIHrrFyofv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIHrrFyofv .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qIHjB1NJHu {
   padding-top: 90px;
@@ -8521,20 +8568,30 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-qIHnyupcE3 {
-  padding-top: 45px;
+.cid-qIHrxCiLUQ {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #465022;
 }
-.cid-qIHnyupcE3 .mbr-section-subtitle {
-  color: #767676;
+.cid-qIHrxCiLUQ .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qIHnyupcE3 .mbr-section-subtitle DIV {
-  color: #ffffff;
-}
-.cid-qIHnyupcE3 H2 {
+.cid-qIHrxCiLUQ .section-text {
+  padding: 2rem 0;
   text-align: left;
-  color: #ffffff;
+  color: #feffd5;
+}
+.cid-qIHrxCiLUQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIHrxCiLUQ .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-qIH3Tt95ER {
   padding-top: 30px;
@@ -8550,6 +8607,7 @@ body {
 }
 .cid-qIH3Tt95ER .section-text {
   padding: 2rem 0;
+  text-align: left;
 }
 .cid-qIH3Tt95ER .inner-container {
   margin: 0 auto;
