@@ -9608,7 +9608,7 @@ body {
 }
 .cid-qIN2gas35x P {
   color: #2e2e2e;
-  text-align: right;
+  text-align: center;
 }
 .cid-qIN2hOwaJg {
   padding-top: 0px;
@@ -10192,6 +10192,162 @@ body {
   border-radius: 50%;
   content: '✓';
 }
+.cid-qINhs2htso {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465022;
+}
+.cid-qINhs2htso .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qINhs2htso .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qINhs2htso .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qINhs2htso .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qINhdmDnxc {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qINhdmDnxc .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qINhdmDnxc .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qINhdmDnxc .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qINhdmDnxc .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qINhVcefJm {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465022;
+}
+.cid-qINhVcefJm .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qINhVcefJm .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qINhVcefJm .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qINhVcefJm .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qINhOkE2um {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qINhOkE2um .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qINhOkE2um .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qINhOkE2um .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qINhOkE2um .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qINhW0WZF7 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465022;
+}
+.cid-qINhW0WZF7 .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qINhW0WZF7 .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qINhW0WZF7 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qINhW0WZF7 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qINhSgwMPc {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qINhSgwMPc .counter-container {
+  color: #767676;
+}
+.cid-qINhSgwMPc .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qINhSgwMPc .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qINhSgwMPc .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #7d973b;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
 .cid-qIMYjYkqjJ {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -10259,6 +10415,40 @@ body {
 .cid-qIMXP59sKl P {
   color: #2e2e2e;
   text-align: left;
+}
+.cid-qINgbPGwZI {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465022;
+}
+.cid-qINgbPGwZI .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qINgbPGwZI .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qINgbPGwZI .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qINgbPGwZI .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qINgaQtkPi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #e4d295;
+}
+.cid-qINgaQtkPi P {
+  color: #2e2e2e;
+  text-align: center;
 }
 .cid-qHQNzjIGLV .navbar {
   padding: .5rem 0;
