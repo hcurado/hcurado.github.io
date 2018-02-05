@@ -10036,6 +10036,15 @@ body {
 .cid-qIMUYNLFpT {
   background-image: url("../../../assets/images/mbr-6-1620x1080.jpg");
 }
+.cid-qIMUYNLFpT H1 {
+  color: #7d973b;
+  text-align: left;
+}
+.cid-qIMUYNLFpT .mbr-text,
+.cid-qIMUYNLFpT .mbr-section-btn {
+  text-align: left;
+  color: #7d973b;
+}
 .cid-qIN41mkdo3 {
   padding-top: 0px;
   padding-bottom: 0px;
