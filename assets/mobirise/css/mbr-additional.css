@@ -2112,7 +2112,7 @@ body {
   margin-top: 3rem;
 }
 .cid-qIHJ4dhlR9 .testimonials-container .testimonials-item .user {
-  background: #ffffff;
+  background: #2e2e2e;
 }
 .cid-qIHJ4dhlR9 .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -2142,6 +2142,15 @@ body {
   .cid-qIHJ4dhlR9 .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-qIHJ4dhlR9 .user_text I {
+  color: #feffd5;
+}
+.cid-qIHJ4dhlR9 .user_name {
+  color: #e4d295;
+}
+.cid-qIHJ4dhlR9 .user_desk {
+  color: #e4d295;
 }
 .cid-qIp88SUIzW {
   padding-top: 0px;
