@@ -10085,6 +10085,113 @@ body {
     width: 100% !important;
   }
 }
+.cid-qIN6KUgpiq {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465022;
+}
+.cid-qIN6KUgpiq .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qIN6KUgpiq .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qIN6KUgpiq .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIN6KUgpiq .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qIN77inCYj {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qIN77inCYj .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qIN77inCYj .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-qIN77inCYj .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIN77inCYj .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qIN8GsheUv {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #465022;
+}
+.cid-qIN8GsheUv .line {
+  background-color: #465022;
+  color: #465022;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qIN8GsheUv .section-text {
+  padding: 2rem 0;
+  text-align: center;
+  color: #e4d295;
+}
+.cid-qIN8GsheUv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qIN8GsheUv .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qIN95NZihI {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qIN95NZihI .counter-container {
+  color: #767676;
+}
+.cid-qIN95NZihI .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qIN95NZihI .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qIN95NZihI .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #7d973b;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
 .cid-qIMYjYkqjJ {
   padding-top: 0px;
   padding-bottom: 0px;
