@@ -1372,24 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qIcELauRtQ {
-  background-image: url("../../../assets/images/consultas-centro-terapeitico-vdm-1920x1280.jpg");
-}
-.cid-qIcELauRtQ H1 {
-  color: #465022;
-}
-.cid-qIcELauRtQ .mbr-text,
-.cid-qIcELauRtQ .mbr-section-btn {
-  color: #7d973b;
-}
-.cid-qId3WkqNeG {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qId3WkqNeG .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-qISap2lLwz {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -5809,4 +5791,22 @@ body {
 }
 .cid-qIT5jB29Tk {
   background-image: url("../../../assets/images/mbr-7-1620x1080.jpg");
+}
+.cid-qIcELauRtQ {
+  background-image: url("../../../assets/images/consultas-centro-terapeitico-vdm-1920x1280.jpg");
+}
+.cid-qIcELauRtQ H1 {
+  color: #465022;
+}
+.cid-qIcELauRtQ .mbr-text,
+.cid-qIcELauRtQ .mbr-section-btn {
+  color: #7d973b;
+}
+.cid-qId3WkqNeG {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qId3WkqNeG .mbr-section-subtitle {
+  color: #767676;
 }
