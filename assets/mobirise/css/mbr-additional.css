@@ -10189,8 +10189,6 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qI6KXfdJla {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-qI6L9pbTgU {
@@ -10476,83 +10474,4 @@ body {
   height: 25px;
   border-radius: 50%;
   content: '✓';
-}
-.cid-qI6M2rsh1R {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #7fdbfd, #6670a9);
-}
-.cid-qI6M2rsh1R .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
-}
-.cid-qI6M2rsh1R .social-list a:focus {
-  text-decoration: none;
-}
-.cid-qIoWYQ68SH {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #2e2e2e;
-}
-@media (max-width: 767px) {
-  .cid-qIoWYQ68SH .content {
-    text-align: center;
-  }
-  .cid-qIoWYQ68SH .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qIoWYQ68SH .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-qIoWYQ68SH .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-qIoWYQ68SH .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-qIoWYQ68SH .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-qIoWYQ68SH .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-qIoWYQ68SH .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-qIoWYQ68SH .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-qIoWYQ68SH .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-qIoWYQ68SH .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-qIoWYQ68SH .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-qIoWYQ68SH .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
 }
