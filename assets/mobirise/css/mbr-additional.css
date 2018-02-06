@@ -1390,32 +1390,6 @@ body {
 .cid-qId3WkqNeG .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qIGP5zv0y3 {
-  background-image: url("../../../assets/images/helena-curado-coach-1920x1357.jpg");
-}
-.cid-qIGP5zv0y3 h1 {
-  color: #616161;
-}
-.cid-qIGP5zv0y3 h2,
-.cid-qIGP5zv0y3 h3,
-.cid-qIGP5zv0y3 p {
-  color: #767676;
-}
-.cid-qIGP5zv0y3 .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-qIGP5zv0y3 H1 {
-  color: #465022;
-}
-.cid-qIGP5zv0y3 P {
-  color: #465022;
-}
-.cid-qIGP5zv0y3 H3 {
-  color: #465022;
-}
-.cid-qIGXlXWPk5 {
-  background: linear-gradient(45deg, #465022, #465022);
-}
 .cid-qISap2lLwz {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -5806,4 +5780,30 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qIGP5zv0y3 {
+  background-image: url("../../../assets/images/helena-curado-coach-1920x1357.jpg");
+}
+.cid-qIGP5zv0y3 h1 {
+  color: #616161;
+}
+.cid-qIGP5zv0y3 h2,
+.cid-qIGP5zv0y3 h3,
+.cid-qIGP5zv0y3 p {
+  color: #767676;
+}
+.cid-qIGP5zv0y3 .mbr-section-subtitle {
+  font-style: italic;
+}
+.cid-qIGP5zv0y3 H1 {
+  color: #465022;
+}
+.cid-qIGP5zv0y3 P {
+  color: #465022;
+}
+.cid-qIGP5zv0y3 H3 {
+  color: #465022;
+}
+.cid-qIGXlXWPk5 {
+  background: linear-gradient(45deg, #465022, #465022);
 }
