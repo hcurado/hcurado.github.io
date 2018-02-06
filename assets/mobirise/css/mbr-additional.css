@@ -1922,6 +1922,10 @@ body {
     padding-left: 0;
   }
 }
+.cid-qIMn2ZPaF3 .card-title,
+.cid-qIMn2ZPaF3 .card-img DIV {
+  color: #2e2e2e;
+}
 .cid-qIMHQUPGHl {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1979,6 +1983,9 @@ body {
   height: 25px;
   border-radius: 50%;
   content: '✓';
+}
+.cid-qIMJHMBQxz .mbr-text UL {
+  color: #2e2e2e;
 }
 .cid-qIHKgRl0g7 {
   padding-top: 0px;
