@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Helena Curado Coach",
-    "currentPage": "httpshcurado.github.io.html",
+    "currentPage": "hcurado.github.io.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 554,
     "versionPublish": "4.6.3",
@@ -4142,7 +4142,7 @@
         }
       ]
     },
-    "httpshcurado.github.io.html": {
+    "hcurado.github.io.html": {
       "settings": {
         "main": true,
         "title": "Home",
